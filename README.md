@@ -1,7 +1,7 @@
 # Sikandar Nawaz
 ### Unity Game Developer | Gameplay Systems & Mobile Game Development
 
-I'm a Unity Game Developer with several years of hands-on experience building mobile games and the systems that power them. My work spans gameplay programming, UI, performance optimization, and backend integrations such as Firebase, advertisements, and in-app purchases — across both personal and client-based projects.
+I'm a Unity Game Developer with hands-on experience building mobile games and the systems that power them. My work spans gameplay programming, UI, performance optimization, and backend integrations such as Firebase, advertisements, and in-app purchases — across both personal and client-based projects.
 
 I care about writing code that stays maintainable as a project grows, not just code that works once. This profile is the long-term home for that work as I prepare it for public release.
 
@@ -36,17 +36,14 @@ I care about writing code that stays maintainable as a project grows, not just c
 - **Code should be readable by someone who isn't me** — naming, structure, and comments are written for the next person maintaining the system.
 - **Documentation is part of the deliverable** — a system isn't done until it's clear how to use it and why it was built that way.
 
-## GitHub Stats
+## By the Numbers
 
-![Sikandar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sn04126&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
+| | |
+|---|---|
+| **2-3 years** | Building with Unity & C# |
+| **10-15** | Unity projects built (personal & client) |
+| **Mobile** | Primary platform — Android & iOS |
+
+## GitHub Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sn04126&theme=tokyonight&hide_border=true)
-
-## GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sn04126&theme=tokyonight&no-frame=true&margin-w=8&row=1)
-
-## Contact
-
-- Email: [sn04126@gmail.com](mailto:sn04126@gmail.com)
-- LinkedIn: [linkedin.com/in/sikandar-unitydeveloper](https://www.linkedin.com/in/sikandar-unitydeveloper/)
