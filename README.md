@@ -36,23 +36,15 @@ I care about writing code that stays maintainable as a project grows, not just c
 - **Code should be readable by someone who isn't me** — naming, structure, and comments are written for the next person maintaining the system.
 - **Documentation is part of the deliverable** — a system isn't done until it's clear how to use it and why it was built that way.
 
-## Current Portfolio Status
+## GitHub Stats
 
-This GitHub profile is currently being rebuilt from the ground up. Most of my Unity work to date — built across several years of personal and client projects — has lived locally rather than in public repositories. I'm in the process of cleaning, documenting, and organizing this work, and will be publishing a series of projects here gradually as each one reaches a standard I'm comfortable putting my name on.
+![Sikandar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sn04126&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
 
-This section will be updated as that work is published.
+![GitHub Streak](https://streak-stats.demolab.com/?user=sn04126&theme=tokyonight&hide_border=true)
 
-## Repository Standards
+## GitHub Trophies
 
-Every project published here will follow a consistent standard:
-
-- A clear README covering what the project is, what it demonstrates, and how it's structured
-- Setup instructions for opening and running the project
-- Architecture notes explaining key design decisions, not just file structure
-- Screenshots or GIFs of the project in action where relevant
-- Release notes for any project that receives ongoing updates
-
-The goal is for each repository to be understandable on its own, without needing context from outside the repo.
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sn04126&theme=tokyonight&no-frame=true&margin-w=8&row=1)
 
 ## Contact
 
