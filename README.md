@@ -15,13 +15,19 @@ I care about writing code that stays maintainable as a project grows, not just c
 ## Tech Stack
 
 **Engine & Language**
-`Unity` `C#`
+![Unity](https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
-**Backend & Services**
-`Firebase` `In-App Purchases` `Ad Networks`
+**Unity Systems**
+![Animator](https://img.shields.io/badge/Animator-black?style=flat-square) ![DOTween](https://img.shields.io/badge/DOTween-black?style=flat-square) ![Addressables](https://img.shields.io/badge/Addressables-black?style=flat-square) ![ScriptableObject Architecture](https://img.shields.io/badge/ScriptableObject%20Architecture-black?style=flat-square) ![Unity UI (uGUI)](https://img.shields.io/badge/Unity%20UI%20(uGUI)-black?style=flat-square) ![Custom Editor Tooling](https://img.shields.io/badge/Custom%20Editor%20Tooling-black?style=flat-square)
 
-**Tools**
-`Git` `Visual Studio` / `Rider`
+**Architecture & Patterns**
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-black?style=flat-square) ![Object Pooling](https://img.shields.io/badge/Object%20Pooling-black?style=flat-square)
+
+**Backend & Monetization**
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![AdMob](https://img.shields.io/badge/AdMob-black?style=flat-square&logo=googleadmob&logoColor=white) ![Unity Ads](https://img.shields.io/badge/Unity%20Ads-black?style=flat-square) ![In--App Purchases](https://img.shields.io/badge/In--App%20Purchases-black?style=flat-square)
+
+**Platforms & Tooling**
+![Android](https://img.shields.io/badge/Android%20Build%20Pipeline-3DDC84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS%20Build%20Pipeline-000000?style=flat-square&logo=apple&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Git LFS](https://img.shields.io/badge/Git%20LFS-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ## Engineering Principles
 
