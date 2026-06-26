@@ -1,7 +1,7 @@
 # Sikandar Nawaz
 ### Unity Game Developer | Gameplay Systems & Mobile Game Development
 
-I'm a Unity Game Developer with hands-on experience building mobile games and the systems that power them. My work spans gameplay programming, UI, performance optimization, and backend integrations such as Firebase, advertisements, and in-app purchases — across both personal and client-based projects.
+I'm a Unity Game Developer with hands-on experience building mobile games and the systems that power them. My work spans gameplay programming, UI, performance optimization, and backend integrations such as Firebase, advertisements, and in-app purchases across both personal and client-based projects.
 
 I care about writing code that stays maintainable as a project grows, not just code that works once. This profile is the long-term home for that work as I prepare it for public release.
 
