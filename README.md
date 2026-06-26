@@ -38,11 +38,13 @@ I care about writing code that stays maintainable as a project grows, not just c
 
 ## By the Numbers
 
-| | |
-|---|---|
-| **2-3 years** | Building with Unity & C# |
-| **10-15** | Unity projects built (personal & client) |
-| **Mobile** | Primary platform — Android & iOS |
+<div align="center">
+
+![Experience](https://img.shields.io/badge/2--3%20Years-Unity%20%26%20C%23-6A0DAD?style=for-the-badge&logo=unity&logoColor=white)
+![Projects](https://img.shields.io/badge/10--15-Unity%20Projects%20Built-1F6FEB?style=for-the-badge&logo=googleplay&logoColor=white)
+![Platform](https://img.shields.io/badge/Mobile--First-Android%20%26%20iOS-0F9D58?style=for-the-badge&logo=android&logoColor=white)
+
+</div>
 
 ## GitHub Activity
 
